@@ -8,7 +8,6 @@ class Quiz extends Component {
 		super(props);
 		this.state = {quiz_pozition: 1};
 	}
-
 	render() {
 		return (
 			<div>
